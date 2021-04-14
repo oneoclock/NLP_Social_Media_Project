@@ -1,4 +1,4 @@
-Dataset in three extensions, csv, tsv and xlsx.
+Dataset in three formats, csv, tsv and xlsx.
 Annotations need to be linked from Workshop dataset using tweet ids.
 7621 tweets in training set.
 5585 tweets in evaluation.
